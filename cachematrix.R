@@ -6,7 +6,7 @@
 ##--------------------------------------------------------------------------------------------
 
 
-## The makecacheMatrix function creates a special matrix object using the <<- operator
+## The makeCacheMatrix function creates a special matrix object using the <<- operator
 ## It returns a list which contains the following functions
 ## set - sets the value of the matrix object
 ## get - get the value of the matrix object
